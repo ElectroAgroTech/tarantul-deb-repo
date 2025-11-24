@@ -4,7 +4,7 @@ Version: 0.0.1
 Architecture: all
 Maintainer: ya4oslav <ya4oslav@mail.com>
 Depends: nginx, python3, python3-gps, python3-websockets, python3-serial, libglib2.0-dev, python3-pip, python3-bleak
-Filename: pool/main/tarantul-251124.deb
+Filename: pool/main/tarantul-0001.deb
 Size: 18832764
 MD5sum: 7fa9ff166710069dff90ff5d627f7aa8
 SHA1: ab020eec9264ee39bd6deb4d4befa9a3428e3a97
