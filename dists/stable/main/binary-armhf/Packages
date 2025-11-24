@@ -1,0 +1,17 @@
+Package: tarantul
+Source: tarantul
+Version: 0.0.1
+Architecture: all
+Maintainer: ya4oslav <ya4oslav@mail.com>
+Depends: nginx, python3, python3-gps, python3-websockets, python3-serial, libglib2.0-dev, python3-pip
+Filename: pool/main/tarantul-251124.deb
+Size: 18829820
+MD5sum: dde9423479cdd4a2639d52e4dc06bd11
+SHA1: 4f3bd2af00bab33bfadecb0ff08995625a2c6d18
+SHA256: 0e92a020d5899a7646b64ad1a5038faaace05ea6f030f8ccd2aa27247e785f4b
+Section: utils
+Priority: optional
+Homepage: tarantul.web
+Description: Software package to control Tarantul NRK
+Build-Depends: debhelper (>= 13)
+
