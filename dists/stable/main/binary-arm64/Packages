@@ -1,14 +1,14 @@
 Package: tarantul
 Source: tarantul
-Version: 1.1.4
+Version: 1.1.5
 Architecture: all
 Maintainer: ya4oslav <ya4oslav@mail.com>
 Depends: nginx, python3, python3-gps, python3-websockets, python3-serial, libglib2.0-dev, python3-pip, python3-bleak
-Filename: pool/main/tarantul-260718.deb
-Size: 22594664
-MD5sum: 47c6b80d7b393c065d40a25e9ce27fdf
-SHA1: 7a75551b7f0c462f797bdb1667da11115c5b13e8
-SHA256: d14c8b122fbddb73aaa9f00f897b7dcfac198dba67b9ff6f9080e7baa994b373
+Filename: pool/main/tarantul-260817.deb
+Size: 22565836
+MD5sum: 4103f720a4886278eb9bdb3b79e8d1dc
+SHA1: 51dece3e7512310e7186f9e34fdcd3633ba77917
+SHA256: 0f92f2b29e0e7709b877a07b1916b438b20a24c81047c2e32f4366aed73f4429
 Section: utils
 Priority: optional
 Homepage: tarantul.web
